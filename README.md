@@ -95,5 +95,5 @@ The class diagram models the structure of the music playlist application, focusi
 
    - **Multiplicity & Relationships**:
      - An Administrator interacts with multiple Songs (1-to-many).
-     - Each Song can be referenced by multiple **Tracks** across playlists (1-to-many).
+     - Each Song can be referenced by multiple Tracks across playlists (1-to-many).
      - Error handling is managed by ErrorHandler if the song ID is invalid.
