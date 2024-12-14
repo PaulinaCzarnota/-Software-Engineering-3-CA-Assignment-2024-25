@@ -1,4 +1,4 @@
-This repository contains my CA 1 Assignment for the Software Engineering 3 module, completed during my third year of Computer Science at TU Dublin.
+This repository contains my CA 1 assignment for the Software Engineering 3 module, completed during my third year of Computer Science at TU Dublin.
 
 The assignment focuses on designing a web-based music player application. The system’s structural and behavioral components are modeled using UML diagrams created in IBM Rational Software Architect Designer.
 
